@@ -11,4 +11,6 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
+    implementation("net.sourceforge.tess4j:tess4j:5.2.1")
+
 }
