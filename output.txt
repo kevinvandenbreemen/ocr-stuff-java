@@ -1,0 +1,4 @@
+Then, we'llrun the tesseract command to read the [BEBIGIIRGIBAG snapshot and write the text in the output ixt file:
+tesseract baldung.pn output
+
+The output txt fle will look like:
